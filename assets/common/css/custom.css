@@ -5,11 +5,13 @@
 
 /* Add a full page Background */
 body {
-
+	margin-top: 50px;
+	margin-bottom: 50px;
+	background: none;
 }
 
 .full {
-  background: url(/assets/common/img/background.jpg) no-repeat center center fixed; 
+  background: url(/assets/common/img/background.jpg) no-repeat center top fixed; 
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
