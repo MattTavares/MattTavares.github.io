@@ -1752,6 +1752,40 @@ ul#filters li button.btn-link.active {
 .services-1 .icon-flag:before {
   content: "\f024";
 }
+/* Start of Custom Icons */
+.services-1 .icon-trophy:before {
+  content: "\f091";
+}
+.services-1 .icon-magic:before {
+  content: "\f0d0";
+}
+.services-1 .icon-ambulance:before {
+  content: "\f0f9";
+}
+.services-1 .icon-fire-extinguisher:before {
+  content: "\f134";
+}
+.services-1 .icon-flask:before {
+  content: "\f0c3";
+}
+.services-1 .icon-gears:before {
+  content: "\f085";
+}
+.services-1 .icon-recycle:before {
+  content: "\f1b8";
+}
+.services-1 .icon-plane:before {
+  content: "\f072";
+}
+.services-1 .icon-line-chart:before {
+  content: "\f201";
+}
+.services-1 .icon-tasks:before {
+  content: "\f0ae";
+}
+
+
+
 .services-1.bg-dark .icon,
 .services-1.bg-primary .icon,
 .services-1.bg-secondary .icon,
