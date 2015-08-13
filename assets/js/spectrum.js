@@ -82,21 +82,8 @@ jQuery(document).ready(function() {
 
     });
 
-    $("#project-details-carousel").owlCarousel({
-
-        navigation: true,
-        slideSpeed: 300,
-        paginationSpeed: 400,
-        singleItem: true,
-        autoHeight: true,
-        navigationText: [
-            "<i class='fa fa-angle-left'></i> Prev",
-            "Next <i class='fa fa-angle-right'></i>"
-        ],
-
-    });
-
-        $("#project-details-carousel-2").owlCarousel({
+    //Should match all ids starting with #project-details-carousel
+    $("input[id^='project-details-carousel']).owlCarousel({
 
         navigation: true,
         slideSpeed: 300,
