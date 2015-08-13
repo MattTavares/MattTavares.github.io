@@ -88,7 +88,9 @@ jQuery(document).ready(function() {
         slideSpeed: 300,
         paginationSpeed: 400,
         singleItem: true,
+        itemsScaleUp: true,
         autoHeight: true,
+        transitionStyle: "backSlide",
         navigationText: [
             "<i class='fa fa-angle-left'></i> Prev",
             "Next <i class='fa fa-angle-right'></i>"
@@ -97,20 +99,6 @@ jQuery(document).ready(function() {
             var that = this
             that.owlControls.prependTo(elem)
         }
-    });
-
-    $("#project-details-carousel-4").owlCarousel({
-
-        navigation: true,
-        slideSpeed: 300,
-        paginationSpeed: 400,
-        singleItem: true,
-        autoHeight: true,
-        navigationText: [
-            "<i class='fa fa-angle-left'></i> Prev",
-            "Next <i class='fa fa-angle-right'></i>"
-        ],
-
     });
 
     // Activates FitVids jQuery Plugin
