@@ -93,7 +93,10 @@ jQuery(document).ready(function() {
             "<i class='fa fa-angle-left'></i> Prev",
             "Next <i class='fa fa-angle-right'></i>"
         ],
-
+        afterInit : function(elem){
+            var that = this
+            that.owlControls.prependTo(elem)
+        }
     });
 
     $("#project-details-carousel-4").owlCarousel({
