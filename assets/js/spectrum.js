@@ -83,7 +83,7 @@ jQuery(document).ready(function() {
     });
 
     //Should match all ids starting with #project-details-carousel
-    $("input[id^='project-details-carousel']).owlCarousel({
+    $("input[id^='project-details-carousel']").owlCarousel({
 
         navigation: true,
         slideSpeed: 300,
