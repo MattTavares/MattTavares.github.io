@@ -145,7 +145,7 @@
         <header class="video-bg">
             <div class="intro-video intro-dark-bg container">
                 <div class="overlay"></div>
-                <div class="intro-body">
+                <div class="intro-body" data-scrollreveal="move 0 over 1.5s">
                     <div class="container">
                         <div class="intro-welcome">Hi, my name is</div>
                         <br>
@@ -1293,11 +1293,21 @@
     <script src="assets/js/spectrum.nav.js"></script>
     <script src="assets/js/spectrum.js"></script>
 
-    <!-- Script to Activate Tubular jQuery Plugin - Use this script if you want to use a YouTube video as a background video. -->
+    <!-- Script to Activate Tubular jQuery Plugin - Use this script if you want to use a YouTube video as a background video. 
     <script>
     $('.video-bg').tubular({
         videoId: 'sCDW1FG7UZs',
         mute: true
+    });
+    </script> -->
+
+    <!-- Script to Activate Formstone Wallpaper jQuery Plugin - Use this script if you want to use an .mp4, .ovg, or .webm video as a background video. -->
+    <script>
+    $(".video-bg").wallpaper({
+        source: {
+            mp4: "assets/mp4/blender-bg.mp4",
+            poster: "assets/img/bgs/desk-bg-3.jpg"
+        }
     });
     </script>
 
