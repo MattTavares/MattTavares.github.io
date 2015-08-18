@@ -77,7 +77,6 @@ jQuery(document).ready(function() {
         paginationSpeed: 400,
         singleItem: true,
         itemsScaleUp: true,
-        center: true,
         autoHeight: true,
         transitionStyle: "backSlide",
         navigationText: [
