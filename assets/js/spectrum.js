@@ -70,24 +70,13 @@ jQuery(document).ready(function() {
 
     });
 
-    $("#portfolio-2-carousel").owlCarousel({
-
-        singleItem: true,
-        navigation: true,
-        navigationText: [
-            "<i class='fa fa-chevron-left'></i>",
-            "<i class='fa fa-chevron-right'></i>"
-        ],
-        slideSpeed: 400
-
-    });
-
     $("[id^='project-'][id$='-carousel']").owlCarousel({
 
         navigation: true,
         slideSpeed: 300,
         paginationSpeed: 400,
         singleItem: true,
+        itemsScaleUp: true,
         center: true,
         autoHeight: true,
         transitionStyle: "backSlide",
