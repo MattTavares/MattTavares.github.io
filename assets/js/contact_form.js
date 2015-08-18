@@ -32,7 +32,7 @@ $contactForm.submit(function(e) {
             // Fail message
             $('#success').html("<div class='alert alert-danger'>");
             $('#success > .alert-danger').html("<button type='button' class='close' data-dismiss='alert' aria-hidden='true'>&times;").append("</button>");
-            $('#success > .alert-danger').append("<strong>Sorry, it seems that my mail server is not responding. Please try Ma.tthew.email!");
+            $('#success > .alert-danger').append("<strong>Sorry, it seems that my mail server is not responding. Please try http://ma.tthew.email");
             $('#success > .alert-danger').append('</div>');
         }
     });
