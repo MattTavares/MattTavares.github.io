@@ -72,19 +72,18 @@ jQuery(document).ready(function() {
 
     //Project Portfolio Carousel
     $("[id^='project-'][id$='-carousel']").owlCarousel({
-        autoPlay : 3000,
+        //autoPlay : 3000,
         stopOnHover : true,
         singleItem: true,
         itemsScaleUp: true,
-        loop: true,
+        loop: false,
         autoHeight: true,
-        itemsScaleUp: true,
-        transitionStyle: "backSlide",
-        navigation:true,
-        navigationText: [
-            "<i class='fa fa-angle-left'></i> Prev",
-            "Next <i class='fa fa-angle-right'></i>"
-        ]
+        transitionStyle: "fade"
+        //navigation:true,
+        //navigationText: [
+        //    "<i class='fa fa-angle-left'></i> Prev",
+        //    "Next <i class='fa fa-angle-right'></i>"
+        //]
         //afterInit : function(elem){
         //    var that = this
         //    that.owlControls.prependTo(elem)
