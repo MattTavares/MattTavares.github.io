@@ -77,7 +77,7 @@ jQuery(document).ready(function() {
         paginationSpeed: 400,
         singleItem: true,
         itemsScaleUp: true,
-        autoHeight: true,
+        //autoHeight: true,
         transitionStyle: "backSlide",
         navigationText: [
             "<i class='fa fa-angle-left'></i> Prev",
