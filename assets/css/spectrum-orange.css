@@ -1784,9 +1784,18 @@ ul#filters li button.btn-link.active {
 .services-1 .icon-fire-extinguisher:before {
   content: "\f134";
 }
+.services-1 .icon-binoculars:before {
+  content: "\f1e5";
+}
+.services-1 .icon-cubes:before {
+  content: "\f1b3";
+}
 
 .services-1 .icon-spock:before {
   content: "\f259";
+}
+.services-1 .icon-hand-rock:before {
+  content: "\f255";
 }
 .services-1 .icon-paw:before {
   content: "\f1b0";
