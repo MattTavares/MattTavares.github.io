@@ -75,18 +75,22 @@ jQuery(document).ready(function() {
         navigation: true,
         slideSpeed: 300,
         paginationSpeed: 400,
-        singleItem: true,
+        //singleItem: true,
         itemsScaleUp: true,
+        loop:true,
+        autoWidth:true,
+        items:3,
+        margin:10
         //autoHeight: true,
-        transitionStyle: "backSlide",
-        navigationText: [
-            "<i class='fa fa-angle-left'></i> Prev",
-            "Next <i class='fa fa-angle-right'></i>"
-        ],
-        afterInit : function(elem){
-            var that = this
-            that.owlControls.prependTo(elem)
-        }
+        //transitionStyle: "backSlide"
+        //navigationText: [
+        //    "<i class='fa fa-angle-left'></i> Prev",
+        //    "Next <i class='fa fa-angle-right'></i>"
+        //],
+        //afterInit : function(elem){
+        //    var that = this
+        //    that.owlControls.prependTo(elem)
+        //}
     });
 
     // Activates FitVids jQuery Plugin
