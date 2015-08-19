@@ -1790,6 +1790,9 @@ ul#filters li button.btn-link.active {
 .services-1 .icon-cubes:before {
   content: "\f1b3";
 }
+.services-1 .icon-globe:before {
+  content: "\f0ac";
+}
 
 .services-1 .icon-spock:before {
   content: "\f259";
