@@ -17,3 +17,14 @@ body {
   -o-background-size: cover;
   background-size: cover;
 }
+
+/* Supporting Role of Carousel*/
+.owl-carousel .owl-item img {
+    height:auto;
+    width:100%;
+    display: block;
+}
+
+.owl-carousel .item {
+    margin:0 3px 0 3px;
+}
