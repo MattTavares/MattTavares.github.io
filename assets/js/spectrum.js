@@ -70,13 +70,20 @@ jQuery(document).ready(function() {
 
     });
 
+    //Project Portfolio Carousel
     $("[id^='project-'][id$='-carousel']").owlCarousel({
         //singleItem: true,
         //itemsScaleUp: true,
         loop: true,
         autoWidth: true,
         items: 3,
-        itemsScaleUp: true
+        itemsScaleUp: true,
+        afterUpdate: function () {
+            updateSize();
+        },
+        afterInit:function(){
+            updateSize();
+        }
         //transitionStyle: "backSlide"
         //navigationText: [
         //    "<i class='fa fa-angle-left'></i> Prev",
@@ -87,6 +94,24 @@ jQuery(document).ready(function() {
         //    that.owlControls.prependTo(elem)
         //}//
     });
+
+    function updateSize(){
+        var minHeight=parseInt($('.owl-item').eq(0).css('height'));
+        $('.owl-item').each(function () {
+            var thisHeight = parseInt($(this).css('height'));
+            minHeight=(minHeight<=thisHeight?minHeight:thisHeight);
+        });
+        $('.owl-wrapper-outer').css('height',minHeight+'px');
+
+        /*show the bottom part of the cropped images*/
+        $('.owl-carousel .owl-item img').each(function(){
+            var thisHeight = parseInt($(this).css('height'));
+            if(thisHeight>minHeight){
+                $(this).css('margin-top',-1*(thisHeight-minHeight)+'px');
+            }
+        });
+
+    }
 
     // Activates FitVids jQuery Plugin
     $(".container").fitVids();
