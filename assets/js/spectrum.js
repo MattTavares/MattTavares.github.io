@@ -70,25 +70,6 @@ jQuery(document).ready(function() {
 
     });
 
-    $("#project-blender-carousel").owlCarousel({
-        //singleItem: true,
-        //itemsScaleUp: true,
-        margin:10,
-        loop:true,
-        autoWidth:true,
-        items:3
-        autoHeight: true,
-        //transitionStyle: "backSlide"
-        //navigationText: [
-        //    "<i class='fa fa-angle-left'></i> Prev",
-        //    "Next <i class='fa fa-angle-right'></i>"
-        //],
-        //afterInit : function(elem){
-        //    var that = this
-        //    that.owlControls.prependTo(elem)
-        //}//
-    });
-
     $("[id^='project-'][id$='-carousel']").owlCarousel({
         //singleItem: true,
         //itemsScaleUp: true,
