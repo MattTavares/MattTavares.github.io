@@ -1464,7 +1464,7 @@ a.light-text:focus {
   width: 75px;
   height: 75px;
   background-color: transparent;
-  top: 25px;
+  top: 10px; /* Cahnged from default at 25px */
   right: 25px;
   cursor: pointer;
 }
@@ -1495,7 +1495,7 @@ a.light-text:focus {
   z-index: 1052;
 }
 .portfolio-modal .row.first {
-  margin-top: 100px;
+  margin-top: 50px; /* Cahnged from default at 100px */
 }
 .portfolio-modal .page-header {
   margin-top: 0;
