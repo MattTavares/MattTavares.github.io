@@ -72,22 +72,25 @@ jQuery(document).ready(function() {
 
     //Project Portfolio Carousel
     $("[id^='project-'][id$='-carousel']").owlCarousel({
-        //singleItem: true,
-        //itemsScaleUp: true,
-        loop: true,
-        autoWidth: true,
-        items: 3,
+        autoPlay : 3000,
+        stopOnHover : true,
+        singleItem: true,
         itemsScaleUp: true,
-        //transitionStyle: "backSlide"
-        //navigationText: [
-        //    "<i class='fa fa-angle-left'></i> Prev",
-        //    "Next <i class='fa fa-angle-right'></i>"
-        //],
+        loop: true,
+        autoHeight: true,
+        itemsScaleUp: true,
+        transitionStyle: "backSlide",
+        navigation:true,
+        navigationText: [
+            "<i class='fa fa-angle-left'></i> Prev",
+            "Next <i class='fa fa-angle-right'></i>"
+        ]
         //afterInit : function(elem){
         //    var that = this
         //    that.owlControls.prependTo(elem)
         //}//
     });
+
 
     // Activates FitVids jQuery Plugin
     $(".container").fitVids();
