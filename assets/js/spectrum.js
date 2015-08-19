@@ -71,16 +71,12 @@ jQuery(document).ready(function() {
     });
 
     $("[id^='project-'][id$='-carousel']").owlCarousel({
-
-        navigation: true,
-        slideSpeed: 300,
-        paginationSpeed: 400,
         //singleItem: true,
-        itemsScaleUp: true,
+        //itemsScaleUp: true,
+        margin:10,
         loop:true,
         autoWidth:true,
-        items:3,
-        margin:10
+        items:3
         //autoHeight: true,
         //transitionStyle: "backSlide"
         //navigationText: [
@@ -90,7 +86,7 @@ jQuery(document).ready(function() {
         //afterInit : function(elem){
         //    var that = this
         //    that.owlControls.prependTo(elem)
-        //}
+        //}//
     });
 
     // Activates FitVids jQuery Plugin
