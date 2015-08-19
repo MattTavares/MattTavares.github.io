@@ -1763,10 +1763,34 @@ ul#filters li button.btn-link.active {
 .services-1 .icon-coffee:before {
   content: "\f0f4";
 }
+.services-1 .icon-chain-broken:before {
+  content: "\f127";
+}
+.services-1 .icon-gears:before {
+  content: "\f085";
+}
+.services-1 .icon-image:before {
+  content: "\f03e";
+}
+.services-1 .icon-lightbulb:before {
+  content: "\f0eb";
+}
+.services-1 .icon-medkit:before {
+  content: "\f0fa";
+}
 
-
-
-
+.services-1 .icon-spock:before {
+  content: "\f259";
+}
+.services-1 .icon-paw:before {
+  content: "\f1b0";
+}
+.services-1 .icon-pied-piper:before {
+  content: "\f1a7";
+}
+.services-1 .icon-rebel:before {
+  content: "\f1d0";
+}
 
 .services-1.bg-dark .icon,
 .services-1.bg-primary .icon,
