@@ -73,11 +73,10 @@ jQuery(document).ready(function() {
     $("[id^='project-'][id$='-carousel']").owlCarousel({
         //singleItem: true,
         //itemsScaleUp: true,
-        margin:10,
-        loop:true,
-        autoWidth:true,
-        items:3,
-        itemsScaleUp:true
+        loop: true,
+        autoWidth: true,
+        items: 3,
+        itemsScaleUp: true
         //transitionStyle: "backSlide"
         //navigationText: [
         //    "<i class='fa fa-angle-left'></i> Prev",
