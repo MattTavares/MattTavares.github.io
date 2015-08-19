@@ -77,7 +77,6 @@ jQuery(document).ready(function() {
         loop:true,
         autoWidth:true,
         items:3
-        autoHeight: true,
         //transitionStyle: "backSlide"
         //navigationText: [
         //    "<i class='fa fa-angle-left'></i> Prev",
