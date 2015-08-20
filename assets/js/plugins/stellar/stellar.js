@@ -4,7 +4,7 @@
 		defaults = {
 			scrollProperty: 'scroll',
 			positionProperty: 'position',
-			horizontalScrolling: true,
+			horizontalScrolling: false,
 			verticalScrolling: true,
 			horizontalOffset: 0,
 			verticalOffset: 0,
