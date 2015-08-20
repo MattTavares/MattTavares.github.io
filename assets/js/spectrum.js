@@ -115,6 +115,8 @@ jQuery(document).ready(function() {
         $(this).removeClass("floating-label-form-group-with-focus");
     });
 
+    // Tooltip
+        $('[data-toggle="tooltip"]').tooltip();  
 });
 
 // Functions to run on window load
