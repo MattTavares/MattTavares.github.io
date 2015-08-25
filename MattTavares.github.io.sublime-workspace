@@ -1,0 +1,267 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ta",
+				"target	Attr"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/mtavares/Documents/GitHub/MattTavares.github.io"
+	],
+	"file_history":
+	[
+		"/C/Users/mtavares/Documents/GitHub/MattTavares.github.io/assets/common/css/custom.css",
+		"/C/Users/mtavares/Documents/GitHub/MattTavares.github.io/sections/sections-services.html",
+		"/C/Users/mtavares/Documents/GitHub/MattTavares.github.io/sections/bootstrap-components.html",
+		"/C/Users/mtavares/Documents/GitHub/MattTavares.github.io/assets/css/spectrum-orange.css",
+		"/C/Users/mtavares/Documents/GitHub/MattTavares.github.io/sections/sections-contact.html",
+		"/C/Users/mtavares/Documents/GitHub/MattTavares.github.io/index.html",
+		"/C/Users/mtavares/Documents/GitHub/MattTavares.github.io/blank.html",
+		"/C/Users/mtavares/Documents/GitHub/MattTavares.github.io/assets/js/spectrum.map.js",
+		"/C/Users/mtavares/Documents/GitHub/MattTavares.github.io/index2.html",
+		"/C/Users/mtavares/Documents/GitHub/MattTavares.github.io/assets/js/spectrum.js",
+		"/C/Users/mtavares/Documents/GitHub/MattTavares.github.io/sections/sections-other.html",
+		"/C/Users/mtavares/Documents/GitHub/MattTavares.github.io/assets/js/plugins/stellar/stellar.js",
+		"/C/Users/mtavares/Documents/GitHub/MattTavares.github.io/assets/js/spectrum.nav.js",
+		"/C/Users/mtavares/Documents/GitHub/MattTavares.github.io/.git/config",
+		"/C/Users/mtavares/Documents/GitHub/MattTavares.github.io/assets/css/plugins/owl.carousel/owl.theme.default.css",
+		"/C/Users/mtavares/Documents/GitHub/MattTavares.github.io/assets/css/plugins/owl.carousel/owl.theme.css.old.css",
+		"/C/Users/mtavares/Documents/GitHub/MattTavares.github.io/assets/css/plugins/owl.carousel/owl.carousel.css",
+		"/C/Users/mtavares/Documents/GitHub/MattTavares.github.io/assets/css/plugins/jquery.fs.wallpaper/jquery.fs.wallpaper.css",
+		"/C/Users/mtavares/Documents/GitHub/MattTavares.github.io/assets/js/plugins/owl.carousel/owl.carousel.js",
+		"/C/Users/mtavares/Documents/GitHub/MattTavares.github.io/assets/css/bootstrap/bootstrap.css",
+		"/C/Users/mtavares/Documents/GitHub/MattTavares.github.io/assets/js/portfolio_carousel.js",
+		"/C/Users/mtavares/Documents/GitHub/MattTavares.github.io/assets/css/spectrum.css",
+		"/C/Users/mtavares/Documents/GitHub/MattTavares.github.io/mail/contact_me.php",
+		"/C/Users/mtavares/Documents/GitHub/MattTavares.github.io/assets/js/contact_me.js",
+		"/C/Users/mtavares/Documents/GitHub/MattTavares.github.io/assets/css/plugins/owl.carousel/owl.theme.css",
+		"/C/Users/mtavares/Documents/GitHub/MattTavares.github.io/assets/css/plugins/owl.carousel/owl.transitions.css",
+		"/C/Users/mtavares/Documents/GitHub/MattTavares.github.io/CNAME",
+		"/C/Users/mtavares/Documents/GitHub/MattTavares.github.io/sample-05-mp4-video.html",
+		"/C/Users/mtavares/Documents/GitHub/MattTavares.github.io/assets/less/spectrum.less",
+		"/C/Users/mtavares/Documents/GitHub/MattTavares.github.io/sample-08-agency.html",
+		"/C/Users/mtavares/Documents/GitHub/MattTavares.github.io/assets/css/plugins/owl.carousel.beta/owl.theme.default.css",
+		"/C/Users/mtavares/Documents/GitHub/MattTavares.github.io/assets/css/plugins/owl.carousel.beta/owl.theme.css",
+		"/C/Users/mtavares/Documents/GitHub/MattTavares.github.io/assets/css/plugins/owl.carousel.beta/owl.theme.green.css",
+		"/C/Users/mtavares/Documents/GitHub/MattTavares.github.io/assets/css/plugins/owl.carousel.beta/owl.carousel.css",
+		"/C/Users/mtavares/Documents/GitHub/MattTavares.github.io/assets/css/plugins/owl.carousel.old/owl.theme.css",
+		"/C/Users/mtavares/Documents/GitHub/MattTavares.github.io/assets/css/plugins/font-awesome/css/font-awesome.css",
+		"/C/Users/mtavares/Documents/GitHub/MattTavares.github.io/assets/less/headers.less",
+		"/C/Users/mtavares/Documents/GitHub/MattTavares.github.io/assets/demo/spectrum-demo.css",
+		"/C/Users/mtavares/Documents/GitHub/MattTavares.github.io/assets/css/spectrum-rust.css",
+		"/C/Users/mtavares/Documents/GitHub/MattTavares.github.io/assets/js/ga.js",
+		"/C/Users/mtavares/Documents/GitHub/MattTavares.github.io/docs/index.html",
+		"/C/Users/mtavares/AppData/Roaming/Sublime Text 3/Packages/User/GitlabIntegrate.sublime-settings"
+	],
+	"find":
+	{
+		"height": 36.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"live lo",
+			"ok, rada",
+			"contact",
+			"custom",
+			"data-tog",
+			"resume",
+			"zeno",
+			"contact",
+			"maps",
+			"resume",
+			"service",
+			"text-pr",
+			"margin-to",
+			"hourl",
+			"proto",
+			"icon-",
+			"icon",
+			"aside",
+			"padding-right: 17",
+			"padding-righ",
+			"row",
+			"fa-search",
+			"insight",
+			"us",
+			"project",
+			"fa ",
+			"fa",
+			"img",
+			"owl-wrap",
+			"margin: 0 ",
+			"owl-item",
+			"item",
+			"resume",
+			"contact",
+			"services-1-ca",
+			"carous",
+			"contac",
+			"100",
+			"fa-",
+			"fa",
+			"proje",
+			"detail",
+			"project",
+			"twitter",
+			">\n",
+			"fa",
+			"\\f",
+			"icon-pen",
+			"fa-dri",
+			"fa-github",
+			"Johnson",
+			"Johnathan",
+			"Jonathan"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "MattTavares.github.io.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 288.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
