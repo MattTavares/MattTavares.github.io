@@ -50,7 +50,11 @@ jQuery(document).ready(function() {
 
         items: 4,
         itemsDesktop: [1199, 3],
-        itemsDesktopSmall: [979, 3]
+        itemsDesktopSmall: [979, 3],
+        autoPlay: 5000,
+        stopOnHover : true,
+        paginationNumbers: false,
+
 
     });
 
@@ -75,7 +79,7 @@ jQuery(document).ready(function() {
         //autoPlay : 3000,
         stopOnHover : true,
         singleItem: true,
-        itemsScaleUp: true,
+        //itemsScaleUp: true,
         loop: false,
         autoHeight: true,
         transitionStyle: "fade"
