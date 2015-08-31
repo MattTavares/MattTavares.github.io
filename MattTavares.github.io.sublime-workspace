@@ -15,7 +15,7 @@
 			"file": "index.html",
 			"settings":
 			{
-				"buffer_size": 76827,
+				"buffer_size": 76852,
 				"line_ending": "Windows"
 			}
 		},
@@ -23,7 +23,7 @@
 			"file": "assets/css/spectrum-orange.css",
 			"settings":
 			{
-				"buffer_size": 71086,
+				"buffer_size": 70145,
 				"line_ending": "Windows"
 			}
 		},
@@ -32,38 +32,6 @@
 			"settings":
 			{
 				"buffer_size": 4687,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "assets/css/bootstrap/bootstrap.css",
-			"settings":
-			{
-				"buffer_size": 141414,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "assets/css/plugins/owl.carousel/owl.carousel.css",
-			"settings":
-			{
-				"buffer_size": 1478,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "assets/css/plugins/owl.carousel/owl.theme.css",
-			"settings":
-			{
-				"buffer_size": 1665,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "sections/sections-portfolio.html",
-			"settings":
-			{
-				"buffer_size": 23943,
 				"line_ending": "Windows"
 			}
 		}
@@ -101,16 +69,17 @@
 	"expanded_folders":
 	[
 		"/C/Users/mtavares/Documents/GitHub/MattTavares.github.io",
-		"/C/Users/mtavares/Documents/GitHub/MattTavares.github.io/assets",
-		"/C/Users/mtavares/Documents/GitHub/MattTavares.github.io/assets/css",
-		"/C/Users/mtavares/Documents/GitHub/MattTavares.github.io/assets/css/bootstrap",
-		"/C/Users/mtavares/Documents/GitHub/MattTavares.github.io/assets/css/plugins",
-		"/C/Users/mtavares/Documents/GitHub/MattTavares.github.io/assets/css/plugins/hover",
-		"/C/Users/mtavares/Documents/GitHub/MattTavares.github.io/assets/css/plugins/jquery.fs.wallpaper",
-		"/C/Users/mtavares/Documents/GitHub/MattTavares.github.io/sections"
+		"/C/Users/mtavares/Documents/GitHub/MattTavares.github.io/assets"
 	],
 	"file_history":
 	[
+		"/C/Users/mtavares/Documents/GitHub/MattTavares.github.io/sections/sections-portfolio.html",
+		"/C/Users/mtavares/Documents/GitHub/MattTavares.github.io/assets/css/plugins/owl.carousel/owl.theme.css",
+		"/C/Users/mtavares/Documents/GitHub/MattTavares.github.io/assets/css/plugins/owl.carousel/owl.carousel.css",
+		"/C/Users/mtavares/Documents/GitHub/MattTavares.github.io/assets/js/plugins/stellar/stellar.js",
+		"/C/Users/mtavares/Documents/GitHub/MattTavares.github.io/assets/js/plugins/SmoothScroll/SmoothScroll.js",
+		"/C/Users/mtavares/Documents/GitHub/MattTavares.github.io/sample-08-agency.html",
+		"/C/Users/mtavares/Documents/GitHub/MattTavares.github.io/assets/js/spectrum.nav.js",
 		"/C/Users/mtavares/Documents/GitHub/MattTavares.github.io/assets/js/plugins/jquery.easing/jquery.easing.1.3.js",
 		"/C/Users/mtavares/Documents/GitHub/MattTavares.github.io/assets/js/plugins/jquery.magnific-popup/jquery.magnific-popup.js",
 		"/C/Users/mtavares/Documents/GitHub/MattTavares.github.io/assets/common/css/custom.css",
@@ -124,12 +93,9 @@
 		"/C/Users/mtavares/Documents/GitHub/MattTavares.github.io/index2.html",
 		"/C/Users/mtavares/Documents/GitHub/MattTavares.github.io/assets/js/spectrum.js",
 		"/C/Users/mtavares/Documents/GitHub/MattTavares.github.io/sections/sections-other.html",
-		"/C/Users/mtavares/Documents/GitHub/MattTavares.github.io/assets/js/plugins/stellar/stellar.js",
-		"/C/Users/mtavares/Documents/GitHub/MattTavares.github.io/assets/js/spectrum.nav.js",
 		"/C/Users/mtavares/Documents/GitHub/MattTavares.github.io/.git/config",
 		"/C/Users/mtavares/Documents/GitHub/MattTavares.github.io/assets/css/plugins/owl.carousel/owl.theme.default.css",
 		"/C/Users/mtavares/Documents/GitHub/MattTavares.github.io/assets/css/plugins/owl.carousel/owl.theme.css.old.css",
-		"/C/Users/mtavares/Documents/GitHub/MattTavares.github.io/assets/css/plugins/owl.carousel/owl.carousel.css",
 		"/C/Users/mtavares/Documents/GitHub/MattTavares.github.io/assets/css/plugins/jquery.fs.wallpaper/jquery.fs.wallpaper.css",
 		"/C/Users/mtavares/Documents/GitHub/MattTavares.github.io/assets/js/plugins/owl.carousel/owl.carousel.js",
 		"/C/Users/mtavares/Documents/GitHub/MattTavares.github.io/assets/css/bootstrap/bootstrap.css",
@@ -137,12 +103,10 @@
 		"/C/Users/mtavares/Documents/GitHub/MattTavares.github.io/assets/css/spectrum.css",
 		"/C/Users/mtavares/Documents/GitHub/MattTavares.github.io/mail/contact_me.php",
 		"/C/Users/mtavares/Documents/GitHub/MattTavares.github.io/assets/js/contact_me.js",
-		"/C/Users/mtavares/Documents/GitHub/MattTavares.github.io/assets/css/plugins/owl.carousel/owl.theme.css",
 		"/C/Users/mtavares/Documents/GitHub/MattTavares.github.io/assets/css/plugins/owl.carousel/owl.transitions.css",
 		"/C/Users/mtavares/Documents/GitHub/MattTavares.github.io/CNAME",
 		"/C/Users/mtavares/Documents/GitHub/MattTavares.github.io/sample-05-mp4-video.html",
 		"/C/Users/mtavares/Documents/GitHub/MattTavares.github.io/assets/less/spectrum.less",
-		"/C/Users/mtavares/Documents/GitHub/MattTavares.github.io/sample-08-agency.html",
 		"/C/Users/mtavares/Documents/GitHub/MattTavares.github.io/assets/css/plugins/owl.carousel.beta/owl.theme.default.css",
 		"/C/Users/mtavares/Documents/GitHub/MattTavares.github.io/assets/css/plugins/owl.carousel.beta/owl.theme.css",
 		"/C/Users/mtavares/Documents/GitHub/MattTavares.github.io/assets/css/plugins/owl.carousel.beta/owl.theme.green.css",
@@ -158,7 +122,7 @@
 	],
 	"find":
 	{
-		"height": 36.0
+		"height": 35.0
 	},
 	"find_in_files":
 	{
@@ -172,6 +136,20 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"easing",
+			"portfol",
+			"flat pack",
+			"other",
+			"portfo",
+			"resume",
+			"nav",
+			"caption-con",
+			"data-stellar-offset-parent",
+			"data-stellar-offset-parent=\"true\"",
+			"live",
+			"serv",
+			"service",
+			"contact",
 			"pricing",
 			"disco",
 			"about",
@@ -272,15 +250,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 76827,
+						"buffer_size": 76852,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								31073,
-								31073
+								0,
+								0
 							]
 						],
 						"settings":
@@ -290,7 +268,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 10792.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
@@ -302,15 +280,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 71086,
+						"buffer_size": 70145,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								39577,
-								39582
+								0,
+								0
 							]
 						],
 						"settings":
@@ -320,10 +298,10 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 4457.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 2,
+					"stack_index": 1,
 					"type": "text"
 				},
 				{
@@ -339,8 +317,8 @@
 						"selection":
 						[
 							[
-								1468,
-								1468
+								1072,
+								1075
 							]
 						],
 						"settings":
@@ -350,128 +328,10 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 692.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
-					"type": "text"
-				},
-				{
-					"buffer": 3,
-					"file": "assets/css/bootstrap/bootstrap.css",
-					"semi_transient": true,
-					"settings":
-					{
-						"buffer_size": 141414,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								123449,
-								123454
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/CSS/CSS.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 113500.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 3,
-					"type": "text"
-				},
-				{
-					"buffer": 4,
-					"file": "assets/css/plugins/owl.carousel/owl.carousel.css",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1478,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/CSS/CSS.tmLanguage",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 6,
-					"type": "text"
-				},
-				{
-					"buffer": 5,
-					"file": "assets/css/plugins/owl.carousel/owl.theme.css",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1665,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/CSS/CSS.tmLanguage",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 5,
-					"type": "text"
-				},
-				{
-					"buffer": 6,
-					"file": "sections/sections-portfolio.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 23943,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								23943
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 4,
+					"stack_index": 2,
 					"type": "text"
 				}
 			]
@@ -479,7 +339,7 @@
 	],
 	"incremental_find":
 	{
-		"height": 28.0
+		"height": 27.0
 	},
 	"input":
 	{
@@ -516,7 +376,7 @@
 	"project": "MattTavares.github.io.sublime-project",
 	"replace":
 	{
-		"height": 52.0
+		"height": 50.0
 	},
 	"save_all_on_build": true,
 	"select_file":
