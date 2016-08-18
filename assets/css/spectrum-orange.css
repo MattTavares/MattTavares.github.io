@@ -115,7 +115,7 @@ body {
   .modal-content {
     -webkit-box-shadow: 0 5px 15px rgba(0, 0, 0, .5);
             box-shadow: 0 5px 15px rgba(0, 0, 0, .5);
-    width:620px;
+    width:630px;
   }
 }
 @media (min-width: 992px) and (max-width: 1199px) {
