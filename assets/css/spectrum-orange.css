@@ -102,12 +102,14 @@ body {
   height: 100%;
 }
 .modal-content {
-  border-radius: 0;
+  border-radius: 2;
   background-clip: border-box;
-  -webkit-box-shadow: none;
-  box-shadow: none;
-  border: none;
-  min-height: 100%;
+  -webkit-box-shadow: darkgrey;
+  box-shadow: darkgrey;
+  border: 2;
+  width:80%;
+  margin:0 auto;
+  min-height: 80%;
 }
 body {
   font-family: "Lora", "Helvetica Neue", Helvetica, Arial, sans-serif;
@@ -1464,7 +1466,7 @@ a.light-text:focus {
   width: 75px;
   height: 75px;
   background-color: transparent;
-  top: 10px; /* Cahnged from default at 25px */
+  top: 10px; /* Changed from default at 25px */
   right: 25px;
   cursor: pointer;
 }
