@@ -117,12 +117,17 @@ body {
             box-shadow: 0 5px 15px rgba(0, 0, 0, .5);
     width:600px;        
   }
-
 }
-@media (min-width: 992px) {
+@media (min-width: 992px) and (max-width: 1199px) {
   .modal-content {
     width: 900px;
   }
+}
+@media (min-width: 1200px) {
+  .modal-content {
+    width: 1100px;
+  }
+}
 body {
   font-family: "Lora", "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-weight: normal;
