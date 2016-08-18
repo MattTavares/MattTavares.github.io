@@ -107,10 +107,22 @@ body {
   -webkit-box-shadow: darkgrey;
   box-shadow: darkgrey;
   border: 2;
-  width:80%;
+  width:100%;
   margin:0 auto;
   min-height: 80%;
 }
+@media (min-width: 768px) {
+  .modal-content {
+    -webkit-box-shadow: 0 5px 15px rgba(0, 0, 0, .5);
+            box-shadow: 0 5px 15px rgba(0, 0, 0, .5);
+    width:600px;        
+  }
+
+}
+@media (min-width: 992px) {
+  .modal-content {
+    width: 900px;
+  }
 body {
   font-family: "Lora", "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-weight: normal;
