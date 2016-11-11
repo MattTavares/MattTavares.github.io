@@ -1842,6 +1842,9 @@ ul#filters li button.btn-link.active {
 .services-1 .icon-cutlery:before {
   content: "\f0f5";
 }
+.services-1 .icon-cloud:before {
+  content: "\f0c2";
+}
 .services-1 .icon-flask:before {
   content: "\f0c3";
 }
